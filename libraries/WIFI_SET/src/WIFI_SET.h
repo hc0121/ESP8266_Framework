@@ -2,8 +2,8 @@
 #ifndef WIFI_SET
 #define WIFI_SET
 
-const char* ssid = "andy"; // 設定欲連接無線網路名稱
-const char* password = "andy90121"; // 設定欲連接無線網路密碼
+const char* ssid = "yydn"; // 設定欲連接無線網路名稱
+const char* password = "00001111"; // 設定欲連接無線網路密碼
 
 void WIFI()
 {
